@@ -1,8 +1,8 @@
-# Coral Bricks Latency Engineering Archive
+# Mantis
 
-Public experiment records behind Coral Bricks' model-specific latency engineering work.
+Mantis is Coral Bricks' AI latency engineering harness for model inference. This public repository currently contains the structured experiment records behind Coral Bricks' model-specific latency engineering work.
 
-This repository contains campaign evidence: hypotheses, measured runs, negative results, manifests, checksums, exporters, and validators. It does not contain the Mantis or Reef harness implementations.
+The archive includes hypotheses, measured runs, negative results, manifests, checksums, exporters, and validators. The harness implementation is not part of this release.
 
 ## Campaigns
 
